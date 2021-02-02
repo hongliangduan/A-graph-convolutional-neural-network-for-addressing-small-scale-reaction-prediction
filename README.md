@@ -1,6 +1,6 @@
 # A-graph-convolutional-neural-network-for-addressing-small-scale-reaction-prediction
 This is the code for "A-graph-convolutional-neural-network-for-addressing-small-scale-reaction-prediction" paper.
-The preprint of this paper can be found in ChemRxiv with 
+The preprint of this paper can be found in ChemRxiv with https://doi.org/10.26434/chemrxiv.13669214.v1
 ## Python 2.7.12
 ## Tensorflow 1.3.0
 ## Numpy 1.16.6
